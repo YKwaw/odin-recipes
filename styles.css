@@ -4,6 +4,20 @@
 }
 
 
-h1{
-    background-color: blue;
+h1,
+h2{
+    background-color: lightblue;
+    padding: 8px;
+    font-weight: bolder;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.nav { 
+    background-color: lightgrey;
+    padding: 4px;
+    margin-top: -22px;
 }
