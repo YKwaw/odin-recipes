@@ -23,6 +23,22 @@ img {
 
 .nav { 
     background-color: lightgrey;
-    padding: 4px;
+    padding: 4px 8px;
     margin-top: -22px;
+}
+
+.footer { 
+    background-color: lightgrey;
+    padding: 4px 8px;
+}
+
+
+.mainlist {
+    font-size: 24px;
+    background-color: azure;
+    margin-top: -22px ;
+}
+
+.listItem {
+    padding: 8px;
 }
