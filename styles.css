@@ -3,6 +3,11 @@
     box-sizing: content-box;
 }
 
+body {
+     width: 800px;
+     margin: 0 auto;
+
+}
 
 h1,
 h2{
